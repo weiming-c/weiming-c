@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Here is a coding & AI learner
+# Working on some practice projects
 
 <!--
 **weiming-c/weiming-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
